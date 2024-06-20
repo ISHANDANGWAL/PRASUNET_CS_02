@@ -2,8 +2,8 @@ This project implements a basic image encryption tool using Python. The tool all
 
 Features:
 
-Encrypt images by applying XOR with a specified key.
+1. Encrypt images by applying XOR with a specified key.
 
-Decrypt encrypted images using the same key.
+2. Decrypt encrypted images using the same key.
 
-Supports common image formats (e.g., JPEG, PNG).
+3. Supports common image formats (e.g., JPEG, PNG).
